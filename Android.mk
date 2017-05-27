@@ -10,4 +10,5 @@ LOCAL_PACKAGE_NAME := MediaProjectionDemo
 
 LOCAL_SDK_VERSION := current
 
+LOCAL_PRIVILEGED_MODULE := true
 include $(BUILD_PACKAGE)
